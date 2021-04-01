@@ -1,2 +1,0 @@
-# ISP
-Intercepting Shell Program
